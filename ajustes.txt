@@ -1,0 +1,9 @@
+a5a9a8
+
+5-1
+reflejos -100
+sombra -40
+
+5-2
+reflejos -100
+sombra 100
